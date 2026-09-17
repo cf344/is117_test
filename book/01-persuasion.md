@@ -44,7 +44,7 @@ Emotion alone does not make a message manipulative. A photograph of friends can 
 
 ## Cialdini's Principles of Influence
 
-Psychologist Robert Cialdini's framework originally identified six major principles; he later added **unity**. The mechanisms below summarize his framework. They describe tendencies, not buttons that control everyone. See [Cialdini's overview at Influence at Work](https://www.influenceatwork.com/7-principles-of-persuasion/).
+Psychologist Robert Cialdini's framework identifies several recurring patterns in human decision-making. The principles below are not magic buttons; they are useful descriptions of tendencies people often show when they are deciding, comparing, or judging value.
 
 The applications and misuse examples are hypothetical design choices for our T-shirt.
 
@@ -66,7 +66,7 @@ A principle does not establish product quality. Popularity cannot prove durabili
 
 ### 1. Framing: What Kind of Choice Is This?
 
-**Framing** means presenting information in a way that emphasizes a particular interpretation. Amos Tversky and Daniel Kahneman demonstrated that different descriptions of the same decision problem can shift preferences. Their work concerns decision framing; the branding examples below apply the broader idea of selective emphasis rather than reproduce their experiments. See [their 1981 paper, “The Framing of Decisions and the Psychology of Choice”](https://doi.org/10.1126/science.7455683).
+**Framing** means presenting information in a way that emphasizes a particular interpretation. The same product can feel practical, stylish, or communal depending on how it is described and shown. The point is not that one frame is always “correct,” but that the words and images around a choice shape how people understand it.
 
 Hold the shirt, price, and purchase terms constant. Change only the presentation:
 
@@ -82,7 +82,7 @@ Framing becomes misleading when it implies unsupported facts. Minimal packaging 
 
 ### 2. Elaboration Likelihood: How Much Thought Goes Into the Message?
 
-Richard Petty and John Cacioppo's **elaboration likelihood model** explains persuasion in terms of how much people think through a message. At greater elaboration, the **central route** involves examining relevant arguments. At lower elaboration, the **peripheral route** relies more on cues or simple associations. Motivation and ability to consider the message matter; these are not fixed types of people. See [their 1986 account of the model](https://doi.org/10.1016/S0065-2601%2808%2960214-2).
+A useful communication idea is that people do not always think deeply about a message. Sometimes they focus on the main argument and evidence; other times they respond more to mood, visuals, tone, and quick signals. In other words, persuasion works differently depending on how much effort a person is willing or able to spend on evaluating the message.
 
 Imagine shopping for the white T-shirt. When fit matters and you have time, you might study measurements, fabric information, and returns. While scrolling quickly, you might respond mainly to an appealing presenter or photograph. The same person can approach the same product differently in different situations.
 
@@ -110,14 +110,16 @@ Try answering these questions for one row of the framing table. If the case for 
 
 ## Explore Further
 
-These are **suggestions for external research**, not additional evidence already reviewed for this chapter. Use a library catalog or scholarly search tool:
+If you want to continue studying this topic, try search terms such as:
 
-- Search **Robert Cialdini Influence unity six seven principles**. Compare an earlier account with one that includes unity.
-- Search **Tversky Kahneman 1981 framing decisions psychology choice**. Identify what stayed constant and what changed between descriptions.
-- Search **Petty Cacioppo elaboration likelihood model motivation ability**. Look for how evidence and presentation cues work under different conditions.
-- Search **deceptive design patterns online shopping consumer research**. Find a documented example and explain how the interface limits informed choice.
+- Robert Cialdini principles of influence
+- framing effect in decision-making
+- scarcity and urgency in marketing
+- persuasion versus manipulation in design
+- ethos pathos logos in communication
+- deceptive design patterns in user interfaces
 
-Check authorship, publication context, and whether a source reports research or merely offers marketing advice. Do not assume a result from one setting predicts every audience's response.
+Use a library catalog or scholarly database to check authorship, research methods, and whether a source is reporting evidence or just giving advice.
 
 ## What You Should Remember
 
