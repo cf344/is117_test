@@ -39,7 +39,7 @@ Persuasion in design operates across four layers:
 3. Trust: Why should I believe this?
 4. Action: What do I do next?
 
-A well-designed message can do these things without resorting to force. It directs attention toward information that matters. It frames meaning in a way that helps people understand a value proposition. It signals credibility through tone, clarity, and consistency. It makes the next step feel logical, useful, or desirable.
+Psychologist Robert Cialdini's framework identifies several recurring patterns in human decision-making. The principles below are not magic buttons; they are useful descriptions of tendencies people often show when they are deciding, comparing, or judging value.
 
 ## A White T-Shirt, Reframed
 
